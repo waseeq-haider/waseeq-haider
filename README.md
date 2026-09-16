@@ -30,7 +30,7 @@
 
 - 📫 How to reach me **waseeqyt@gmail.com**
 
-- ⚡ Check out my **[Portfolio](https://waseeq-haider.github.io/Portfolio-web/)** and projects like **[CV Generator](https://waseeq-haider.github.io/cv-generator/)** & **[Techytoolsai](https://techytoolai.vercel.app/)**
+- ⚡ Check out my **[Portfolio](https://waseeq.vercel.app/)** and projects like **[CV Generator](https://waseeq-haider.github.io/cv-generator/)** & **[Techytoolsai](https://techytoolai.vercel.app/)**
 
 <br/>
 <br/>
