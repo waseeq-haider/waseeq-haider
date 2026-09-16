@@ -9,7 +9,7 @@
 <img align="right" alt="coding" width=300 height=300 src="https://media.giphy.com/media/f3KwliaH4MLtli8z7D/giphy.gif" />
 
 <p align="left"> 
-  <a href="https://waseeq.vercel.app/" target="blank"><img src="https://img.shields.io/badge/Portfolio-Visit%20Site-00B4D8?style=for-the-badge&logo=google-chrome&logoColor=white" alt="portfolio" /></a>
+  <a href="https://portfolio-website-eight-zeta-50.vercel.app/" target="blank"><img src="https://img.shields.io/badge/Portfolio-Visit%20Site-00B4D8?style=for-the-badge&logo=google-chrome&logoColor=white" alt="portfolio" /></a>
   <a href="https://github.com/waseeq-haider" target="blank"><img src="https://img.shields.io/badge/GitHub-waseeq--haider-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>
   <a href="https://instagram.com/syed.waseeq.h" target="blank"><img src="https://img.shields.io/badge/Instagram-syed.waseeq.h-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" /></a>
   <a href="mailto:waseeqyt@gmail.com" target="blank"><img src="https://img.shields.io/badge/Email-waseeqyt%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
@@ -30,7 +30,7 @@
 
 - 📫 How to reach me **waseeqyt@gmail.com**
 
-- ⚡ Check out my **[Portfolio](https://waseeq.vercel.app/)** and projects like **[CV Generator](https://waseeq-haider.github.io/cv-generator/)** & **[Techytoolsai](https://techytoolai.vercel.app/)**
+- ⚡ Check out my **[Portfolio](https://portfolio-website-eight-zeta-50.vercel.app/)** and projects like **[CV Generator](https://waseeq-haider.github.io/cv-generator/)** & **[Techytoolsai](https://techytoolai.vercel.app/)**
 
 <br/>
 <br/>
@@ -38,7 +38,7 @@
 <p align="left">
 <a href="https://github.com/waseeq-haider" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="waseeq-haider" height="30" width="40" /></a>
 <a href="https://instagram.com/syed.waseeq.h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="syed.waseeq.h" height="30" width="40" /></a>
-<a href="https://waseeq.vercel.app/" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-00B4D8?style=for-the-badge&logo=google-chrome&logoColor=white" alt="portfolio" height="30" /></a>
+<a href="https://portfolio-website-eight-zeta-50.vercel.app/" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-00B4D8?style=for-the-badge&logo=google-chrome&logoColor=white" alt="portfolio" height="30" /></a>
 <a href="mailto:waseeqyt@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" height="30" /></a>
 </p>
 
